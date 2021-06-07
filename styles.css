@@ -1,3 +1,13 @@
+html {
+  background-color: f8f8f8;
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 h1, h2 {
   font-family: sans-serif;
+  color: #333;
 }
