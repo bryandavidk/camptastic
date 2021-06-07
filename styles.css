@@ -5,10 +5,11 @@ html {
 body {
   max-width: 960px;
   margin: 0 auto;
+  background-color: #fff;
 }
 
 h1, h2 {
   font-family: sans-serif;
-  color: red;
   font-weight: lighter;
+  color: #333;
 }
