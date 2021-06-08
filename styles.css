@@ -109,10 +109,11 @@ select {
 ||||||||||||||||||||||||||||||||*/
 
 body {
-  font-family: sans-serif;  
+
 }
 
 h1, h2 {
+  font-family: sans-serif;
   font-weight: lighter;
   color: #333;
 }
@@ -164,7 +165,7 @@ body {
 ||||||||||||||||||||||||||||||||*/
 
 label {
-
+  font-family: sans-serif;  
 }
 
 /*||||||||||||||||||||||||||||||||
