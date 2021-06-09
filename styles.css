@@ -110,11 +110,18 @@ select {
 
 html {font-size: 100%;} /*16px*/
 
-body, label {
-  background: white;
+body {
   font-family: 'Source Code Pro', monospace;
   font-weight: 400;
   line-height: 1.75;
+  color: #333333;
+}
+
+label {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: -2px;
   color: #333333;
 }
 
@@ -187,10 +194,6 @@ body {
   FORMS
 
 ||||||||||||||||||||||||||||||||*/
-
-label {
-  font-family: sans-serif;
-}
 
 /*||||||||||||||||||||||||||||||||
 
