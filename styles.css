@@ -110,7 +110,7 @@ select {
 
 html {font-size: 100%;} /*16px*/
 
-body {
+body, label {
   background: white;
   font-family: 'Source Code Pro', monospace;
   font-weight: 400;
