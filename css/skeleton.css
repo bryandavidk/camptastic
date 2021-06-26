@@ -133,6 +133,10 @@ nav {
   background-color: blue;
 }
 
+  nav ul li {
+    display: inline;
+  }
+
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
