@@ -130,6 +130,7 @@ body {
 nav {
   height: 42px;
   width: 100%;
+  margin-bottom: 24px;
   padding-top: 16px;
   padding-left: 16px;
   background-color: #05335a;
