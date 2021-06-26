@@ -127,8 +127,9 @@ body {
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
-nav.one.column, {
+nav {
   height: 64px;
+  width: 100%;
   background-color: blue;
 }
 
